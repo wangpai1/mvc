@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="servlet1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84002c73-4103-42d9-859f-cec3472212d7" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1cDTB2eVbY93PMMVYvi6DCOS1LR" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/桌面/新建文件夹/java2enews/javaEEMVCmodel2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/web/SWPUViewNews.jsp" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/web/img1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\ueditor" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\WEB-INF\lib" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\img" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\Ueditor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\pages" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\upload\enter" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\WEB-INF" />
+      <recent name="D:\Work_Spaces\idea_workspace\servlet1\web\page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/servlet1_war_exploded" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="servlet1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/servlet1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_servlet1" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49897" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="servlet1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84002c73-4103-42d9-859f-cec3472212d7" name="默认更改列表" comment="" />
+      <created>1590062024675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590062024675</updated>
+      <workItem from="1590062030080" duration="485000" />
+      <workItem from="1590065733263" duration="4154000" />
+      <workItem from="1590070114506" duration="103000" />
+      <workItem from="1590133347760" duration="2086000" />
+      <workItem from="1590135487793" duration="409000" />
+      <workItem from="1590135965336" duration="58000" />
+      <workItem from="1590136139450" duration="765000" />
+      <workItem from="1590149141435" duration="2013000" />
+      <workItem from="1590243085309" duration="372000" />
+      <workItem from="1590303227801" duration="2231000" />
+      <workItem from="1590484755847" duration="642000" />
+      <workItem from="1590631083900" duration="4111000" />
+      <workItem from="1590823569238" duration="875000" />
+      <workItem from="1590826896194" duration="4341000" />
+      <workItem from="1590839583385" duration="3105000" />
+      <workItem from="1590842884783" duration="3964000" />
+      <workItem from="1591431611395" duration="4044000" />
+      <workItem from="1591533161226" duration="4620000" />
+      <workItem from="1591606991689" duration="2911000" />
+      <workItem from="1591691790856" duration="6789000" />
+      <workItem from="1591750752203" duration="3075000" />
+      <workItem from="1591780395500" duration="5150000" />
+      <workItem from="1591790404158" duration="3712000" />
+      <workItem from="1591835591656" duration="1807000" />
+      <workItem from="1591837482279" duration="8140000" />
+      <workItem from="1591873695835" duration="6931000" />
+      <workItem from="1591946395121" duration="8854000" />
+      <workItem from="1592035022089" duration="3405000" />
+      <workItem from="1592038494068" duration="5830000" />
+      <workItem from="1592098095388" duration="6487000" />
+      <workItem from="1592119826232" duration="806000" />
+      <workItem from="1592121298697" duration="1936000" />
+      <workItem from="1592568227566" duration="322000" />
+      <workItem from="1592649183300" duration="1415000" />
+      <workItem from="1592722297570" duration="10222000" />
+      <workItem from="1592748862974" duration="2331000" />
+      <workItem from="1592790207830" duration="13232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
